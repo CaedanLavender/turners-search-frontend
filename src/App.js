@@ -85,7 +85,7 @@ function App() {
 		<div className="App">
 			<div className="upper">
 				{/* TITLE */}
-				<div className='title'>Search Turners</div>
+				<div className='title'>Search Turners Beta</div>
 
 				{/* SEARCH BOX */}
 				<div className='searchContainer'>
