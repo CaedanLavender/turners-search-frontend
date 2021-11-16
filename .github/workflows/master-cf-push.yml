@@ -46,7 +46,7 @@ jobs:
 
   deploy:
     name: Deploy to IBM Cloud Foundry
-    needs: [test]
+    needs: [SonarCloud]
     runs-on: ubuntu-latest
 
     steps:
